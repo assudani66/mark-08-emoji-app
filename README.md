@@ -1,2 +1,2 @@
-# mark-08-emoji-app
+# Emoji-App
 Created with CodeSandbox

@@ -6,5 +6,6 @@ which tells you about the emoji
 you can enter emoji in the text box or just.<br/>
 click on the given emojis.
 live link - https://lxcbm2.csb.app/
+<br/>
 I made this using React
 _made this during neog camp_
